@@ -27,3 +27,10 @@ I have hosted my personal discord bot on AWS EC2 so I implemented the reload cog
 ```
 ### Limitations
 This will not work if the cog you are reloading was not initially added when running the bot. To add new cogs to the running bot you will need to restart the bot.
+
+## Recommended
+Add these to the .gitignore file:
+```
+.env
+.gitignore
+```
