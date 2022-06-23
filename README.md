@@ -8,12 +8,13 @@ This project is a skeleton project designed to help you get up and running quick
 ## Quick Guide 
 ```
 1. Clone project 
-2. Add your discord bot key into .env.
-3. Update bot.py line 20 to match the variable name:
+2. Install requirements.txt
+3. Add your discord bot key into .env.
+4. Update bot.py line 20 to match the variable name:
     * bot.run(os.getenv('LIVE_BOT'))
 Based on what you have entered in .env.
-4. Run bot.py and message your bot ;HelloWorld.
-5. Continue Adding commands and cogs to your liking.
+5. Run bot.py and message your bot ;HelloWorld.
+6. Continue Adding commands and cogs to your liking.
 ```
 
 ## Reloading Cogs
